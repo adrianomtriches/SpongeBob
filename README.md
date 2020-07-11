@@ -9,6 +9,7 @@
 - Git Status “status should’ve changed to green”
 - Git commit -m “add your msg here, changes you made”
 - Git push “pushes the code into GitHub”
+- Git push origin <name of the branch> "pushes to your fork and to the original repo that you are contribuiting as well".
 - Git pull “updates to the most current changes on the document”
 
 - Git checkout -b <name of the branch> “Creates a new Branch and switches to the branch”
