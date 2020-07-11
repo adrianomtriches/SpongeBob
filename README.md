@@ -22,6 +22,7 @@
 - Than switching back to the branch and “git merge master” into the branch to visually see any conflicts in the code, in the text editor.
 
 **Keeping Your Fork Up To Date**
+
 You may have noticed something while watching the previous videos...Do you have to always fork the Open Source project every time master get's updated? What happens if somebody makes an update to the original project and now your forked project is out of sync and outdated? Luckily for you, there is an easy way to always make sure your fork has the most up to date version of the original project. Here is how:
 
 Once you are in your forked project directory in your command prompt....
