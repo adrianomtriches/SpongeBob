@@ -48,6 +48,6 @@ Now, you can keep your fork synced with the upstream repository with a few Git c
 One simple way is to do the below command from the master of your forked repository: 
 
 git pull upstream master
-Or you can follow along another method here: "Syncing a fork."
+Or you can follow along another method here: "Syncing a fork." https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork
 
 Source: https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/learn/lecture/16539458#overview
