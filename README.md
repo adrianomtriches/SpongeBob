@@ -17,11 +17,11 @@
 - Git checkout <name of the branch> “switches to the branch”
 - Git diff “shows the changes you made”
 
-Good practice:
+**Good practice:**
 - Before merging code from a branch into the master branch it’s good to switch to the master branch and do a pull after you have added and committed, just to make sure you don’t get any conflicts on the code.
 - Than switching back to the branch and “git merge master” into the branch to visually see any conflicts in the code, in the text editor.
 
-****Keeping Your Fork Up To Date****
+**Keeping Your Fork Up To Date**
 You may have noticed something while watching the previous videos...Do you have to always fork the Open Source project every time master get's updated? What happens if somebody makes an update to the original project and now your forked project is out of sync and outdated? Luckily for you, there is an easy way to always make sure your fork has the most up to date version of the original project. Here is how:
 
 Once you are in your forked project directory in your command prompt....
