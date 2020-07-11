@@ -3,7 +3,7 @@
 
 **Git commands**
 
-- To work in other projects: -> click in fork, add yo the project to your account. Get the link of the repo. then on the terminal us the command "git clone <repolink>"
+- To work in other projects: -> click in fork, add the project to your account. Get the link of the repo. then on the terminal use the command "git clone <repolink>"
 - Git status "red === changes were made but not added" - "green === changes were added"
 - Git add <name of the file> or just, git add . “With a space and a dot to select all files that you made changes to it”
 - Git Status “status should’ve changed to green”
