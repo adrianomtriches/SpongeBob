@@ -1,0 +1,67 @@
+API:
+    Notes
+    - Read the documentation and tested the API endpoints utilizing Postman.
+    - Added a test gateway, added a few payment_methods and users. 
+        - For some reason the POST requests sent with a token were not processing (Json and XML)
+        - Purchase POST requests passing the card with it, only returned with (status=Falied) and only worked using XML not Json.
+        I didn’t look further if it was the currency or something like that.
+
+    - Creating a test gayway through postman it only worked when the post request was sent in XML format.
+
+
+WHAT IS SPREADLY: 
+    Spreedly is a transaction rounting infrastructure that allows to connect to 220+ payment gateways and service APIs 
+    with one single API integration. 
+        - Expand internationally while reducing PCI complience scope and easly maintaining payment applications.
+
+VALUE PROP:
+    Access over 120 gateways around the world with one single API integration
+    Expand internatioally reducing PCI complience and Increase acceptance rate by routing transactions to different gateways.
+
+USE CASE:
+    Supreme Golf
+        Offers a better user experience because they are a platform that connects with multiple partners that utilize their own gateways. 
+        Spreedly allows Supreme Golf and each of the partners to Process payments internationally in local currency, and with local gateways.
+
+----
+:
+BUSINESS STUDY
+Connect to 220+ payment gateways and service APIs globaly with one single API integration.
+
+
+MONETIZATION MODEL:
+    - Subscription + Transaction Fee 
+    
+BUSINESS MODEL
+    - Saas
+
+COMPETITORS:
+    - https://www.tokenex.com/ ?
+    - https://t1payments.com/ Low chance of being a competitor (check spreedly for Ecom platforms integration such as magento)
+    - 
+
+x - How they position among competitors
+ - Where is their presence?
+ - Where their presence have grown?
+How does the sales process work?
+Get insights
+CUSTOMERS WORRIES
+	International
+Set strategy of the user experience when going international, from the UI design perspective to accommodate particular requirements from local payment gateways. Such as 3DS 2.0. Look into regulatory barriers at the very beginning is important.
+General
+Reconciliation of payments when utilizing multiple payment gateways is a hustle
+
+HOW THE PRODUCT WORKS
+    - How do spreedly charge a recurring subscription on Stripe? Does it support subscriptions? if they don't manage subscriptions how
+      hard if for clints to manage ongoing subscription in multiple platforms? Is there another Saas company that acts as a subscription
+      middle-were and that helps manage all the subscription in one single place?
+    - Spreedly offers a logic of smartly rounting payments with focus on approval rate.
+        - How can we build a transaction routing logic that saves time and enhance the gains for the clients?
+    What are the functionalities of the APIs?
+
+Onboarding
+    - onboarding and testing process could be more intuitive?
+    - Documentation is a bit confusing. I should be clear what every step should be.
+    - How long it takes to get up and running
+    - Design and navigation
+
